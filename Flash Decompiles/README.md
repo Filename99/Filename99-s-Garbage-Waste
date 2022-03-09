@@ -1,6 +1,6 @@
-This is a folder for decompiles of Flash animations, games and other stuff.
+This is a folder for decompiles of Flash animations, games and other stuff. If you don't know about Adobe Flash, then read this short text about it:
 
-> Short for Adobe Flash, Flash is software that allows users to create animated works that are saved as .FLV and can be viewed over the Internet. It was originally developed by FutureWave and known as Future Splash Animator. In 1996, it was renamed and introduced to the public as Macromedia Flash, shortly after Macromedia purchased the product. Later, Adobe announced plans to purchase Macromedia, which was finalized and completed by the end of 2005.
+> Adobe Flash (formerly Macromedia Flash) was a rich internet application distributed by Adobe Systems. Adobe Flash and Adobe Flash Player were used to create and view animated content that could be placed on web pages. Adobe Flash was used commonly on the Internet by web browsers. Flash was created by FutureWave (a multimedia company) in 1995. Then it was called "FutureSplash Animator" (this was Flash 1.0). FutureWave along with Flash were soon bought by Macromedia around 1997, who in December 2005 was again bought by Adobe Systems. From Flash version 2 to 8 it was called "Macromedia Flash", now it is called "Adobe Flash". In 2012, Adobe discontinued the Solaris version of Flash Player, and made the Linux version only for Google Chrome. The Android version was removed from Google Play. In 2020, Adobe discontinued Adobe Flash, because Adobe claims that WebGL, HTML5, and WebAssembly serve as good alternatives for Adobe Flash.
 
 Here is the list of used animations and games made in Flash, decompiled here:
 
