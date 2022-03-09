@@ -1,6 +1,6 @@
 # Filename99's Garbage Waste
 
-Hello, dear programmers, linguists, or whoever you are! Quickly put on your gas masks, because you are entering my dump. Here you will see:
+Hello, dear programmers, linguists, artists, or whoever you are! Quickly put on your gas masks, because you are entering my dump. Here you will see:
 
 * shitty code
 * useless programs
